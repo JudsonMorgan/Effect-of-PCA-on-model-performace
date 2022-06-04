@@ -15,8 +15,8 @@ It is obvious that the PCA has effect on the model performance, by reducing the 
 2. Clearer visualization of the dataset.
 
 # To Do:
-1. pip install requirements.txt
-2. clone repository
+1. clone repository.
+2. On Anaconda prompt, pip install -r requirements.txt
 3. create a folder data and paste `heart.csv` in the data folder
 4. open notebook
 5. Contributions are highly welcome!
